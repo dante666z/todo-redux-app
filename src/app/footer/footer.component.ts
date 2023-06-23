@@ -10,6 +10,16 @@ export class FooterComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    console.log("Hola stash2");
+  }
+
+
+
+
+
+
+  isValid(): Boolean {
+    return true;
   }
 
 }
