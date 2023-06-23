@@ -10,7 +10,9 @@ export class FooterComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+  
     console.log("Hola stash2");
+    console.log("Solo");
   }
 
 
