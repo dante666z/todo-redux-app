@@ -13,4 +13,13 @@ export class FooterComponent implements OnInit {
     console.log("Hola stash2");
   }
 
+
+
+
+
+
+  isValid(): Boolean {
+    return true;
+  }
+
 }
